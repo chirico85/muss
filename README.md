@@ -1,4 +1,4 @@
-# Test TEST Multilingual Unsupervised Sentence Simplification
+# Multilingual Unsupervised Sentence Simplification
 
 Code and pretrained models to reproduce experiments in "MUSS: Multilingual Unsupervised Sentence Simplification by Mining Paraphrases".
 
